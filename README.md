@@ -11,7 +11,6 @@ one unit. Nothing in this build calls a cloud AI provider.
 | `/` | VaultMind landing page |
 | `/console` | Inspection workbench (the working product) |
 
-
 Every **Access Workbench / Explore Workbench** button on the landing page opens `/console`,
 so the two halves are wired together.
 
