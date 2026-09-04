@@ -182,8 +182,6 @@ vaultmind/
 └── README.md
 ```
 
----
-
 ## Intentionally out of scope for this build
 
 - Full VL / LLM weights — the vision and reasoning adapters are local stand-ins
