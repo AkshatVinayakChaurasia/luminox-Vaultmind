@@ -10,11 +10,7 @@ one unit. Nothing in this build calls a cloud AI provider.
 |---|---|
 | `/` | VaultMind landing page |
 | `/console` | Inspection workbench (the working product) |
-| `/healthz` | Liveness probe for the hosting platform |
-| `/api/health` | Server + runtime/boundary snapshot |
-| `/api/knowledge` | Catalogue of local manuals |
-| `/api/audit` | Recent audit records |
-| `/api/inspect` | Run the inspection agent (multipart POST) |
+
 
 Every **Access Workbench / Explore Workbench** button on the landing page opens `/console`,
 so the two halves are wired together.
@@ -65,8 +61,6 @@ manually:
 - Start command — `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
 - Health check path — `/healthz`
 
-### Railway
-`railway.json` points at the Dockerfile. Connect the repo and deploy; no settings needed.
 
 ### Heroku / Fly / any Procfile host
 `Procfile` is in the root:
