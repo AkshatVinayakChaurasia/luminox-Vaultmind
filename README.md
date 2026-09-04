@@ -141,7 +141,6 @@ Server's own port.
 ---
 
 
-
 1. Understands the inspection request
 2. Retrieves passages from the local manuals in `data/knowledge/`
 3. Inspects an uploaded photo with an on-box colour heuristic (stand-in for a local VLM)
