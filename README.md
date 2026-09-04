@@ -80,7 +80,7 @@ web: uvicorn app.main:app --host 0.0.0.0 --port $PORT
 
 `data/uploads`, `data/audit` and any manual you upload are written to the container's
 filesystem. On ephemeral hosts (Render free, Railway, Heroku) that disk is wiped on every
-restart, so the audit trail resets. That is fine for a demo. For a persistent trail, mount a
+restart, so the audit trail resets. That is fine for a demo. For a persistent trail , mount a
 volume at `/app/data`.
 
 The pages load Inter and IBM Plex Mono from Google Fonts. If you demo fully offline, the
