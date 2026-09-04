@@ -1,0 +1,19 @@
+DOCUMENT: SPEC-HX-441
+REVISION: A
+TITLE: Heat Exchanger E-441 — Equipment Datasheet (excerpt)
+OWNER: Process Engineering
+PAGES: 1–4
+
+--- PAGE 1 ---
+Service: Crude preheat, shell-side hydrocarbon / tube-side steam condensate.
+Shell material: Carbon steel SA-516 Gr.70
+Design pressure: 18 bar(g)
+Design temperature: 280 °C
+Nominal shell thickness: 12.0 mm
+Retirement thickness (shell): 8.5 mm
+
+--- PAGE 2 ---
+Inspection notes
+External CUI (corrosion under insulation) is the dominant damage mechanism at the saddle and at insulation penetrations.
+Orange-brown product on jacketing seams is a CUI indicator. Strip a 300 mm band and UT if staining is active.
+Do not restart steam to the bundle if a flange weepage is visible until bolting integrity is confirmed.

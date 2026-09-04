@@ -1,0 +1,33 @@
+DOCUMENT: PIP-014
+REVISION: R4
+TITLE: Internal Corrosion Inspection of Process Piping
+OWNER: Inspection & Reliability
+PAGES: 1–18
+
+--- PAGE 8 ---
+3.2 Visual classification of external corrosion
+Grade A — Light surface rust, mill scale remaining, no measurable metal loss.
+Grade B — General rust with scattered pitting. Remaining wall typically within 90% of nominal.
+Grade C — Widespread pitting or scab corrosion. Remaining wall between 80% and 90% of nominal. Requires thickness survey within 30 days.
+Grade D — Deep pitting, flaking scale, or leak stain. Remaining wall may be below retirement thickness. Isolate and notify Inspection immediately.
+
+--- PAGE 12 ---
+5.1 Acceptance criteria for carbon steel process piping
+Nominal wall for 6-inch Sch 40 CS: 7.11 mm.
+Retirement (minimum) thickness: 4.80 mm.
+Corrosion allowance: 1.50 mm.
+If observed or inferred remaining thickness is below 4.80 mm, the line is unfit for continued service until Fitness-for-Service (API 579) is completed.
+If remaining thickness is between 4.80 mm and 6.00 mm, increase inspection frequency to quarterly UT and apply temporary wrap only with Inspection approval.
+
+--- PAGE 14 ---
+6.3 Leak stains and product residue
+Brown-orange staining below flanges or on insulation jacketing is treated as a possible weepage until proven otherwise.
+Photograph, tag the location, and compare against the last inspection report before declaring the finding closed.
+Do not disturb heavy scale with impact tools on live hydrocarbon service.
+
+--- PAGE 16 ---
+7.1 Recommended actions
+Grade A: record and continue routine round.
+Grade B: schedule NDT within 90 days.
+Grade C: NDT within 30 days; review remaining life.
+Grade D: operational restriction and Inspection hold.

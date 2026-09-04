@@ -1,0 +1,23 @@
+DOCUMENT: SOP-PUMP-032
+REVISION: R2
+TITLE: Centrifugal Pump Visual Inspection — Field Round
+OWNER: Mechanical Maintenance
+PAGES: 1–9
+
+--- PAGE 3 ---
+2.1 Seal and bearing housing
+Look for oil wetness at the bearing housing drain and at the mechanical seal gland.
+A light mist film after a long run may be acceptable if the level in the constant-level oiler is stable.
+Active dripping, pooling, or dark varnish streaks require a work order and vibration check.
+
+--- PAGE 5 ---
+3.4 Coupling guard and base
+Loose or missing coupling-guard fasteners are a safety hold.
+Foundation grout cracks wider than 2 mm near the pump feet should be logged and compared with the last alignment report.
+Paint blistering on the volute often tracks through-wall corrosion on older CS casings — treat as Grade C until UT confirms otherwise.
+
+--- PAGE 7 ---
+4.2 Vibration and temperature (field)
+Normal bearing housing temperature: less than 75 °C.
+Investigate if temperature exceeds 85 °C or if vibration is reported as “rough” by operations.
+Do not rely on a photograph alone for vibration; use the photo to locate leaks, rust, and missing hardware.

@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+# runtime data — regenerated on every run
+data/uploads/*
+!data/uploads/.gitkeep
+data/audit/*.jsonl
+!data/audit/.gitkeep
+data/knowledge/upload-*.txt

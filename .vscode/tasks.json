@@ -1,0 +1,24 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "VaultMind: Create venv + install deps",
+      "type": "shell",
+      "command": "python3 -m venv .venv && .venv/bin/pip install --upgrade pip && .venv/bin/pip install -r requirements.txt",
+      "windows": {
+        "command": "python -m venv .venv; .\\.venv\\Scripts\\python.exe -m pip install --upgrade pip; .\\.venv\\Scripts\\python.exe -m pip install -r requirements.txt"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "VaultMind: Run server",
+      "type": "shell",
+      "command": ".venv/bin/python -m uvicorn app.main:app --host 127.0.0.1 --port 8080 --reload",
+      "windows": {
+        "command": ".\\.venv\\Scripts\\python.exe -m uvicorn app.main:app --host 127.0.0.1 --port 8080 --reload"
+      },
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
+}
